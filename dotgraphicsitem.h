@@ -1,0 +1,9 @@
+#ifndef DOTGRAPHICSITEM_H
+#define DOTGRAPHICSITEM_H
+
+
+
+
+
+
+#endif // DOTGRAPHICSITEM_H
